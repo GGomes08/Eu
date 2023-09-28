@@ -9,8 +9,5 @@ Tenho foco em Java e estou buscando aprender mais Python.
 # Fim
 Bom no fim é isso, vou postar projetos, dos trabalhos que fiz e que acreditar serem interessante pro meu portfolio e é isso, abraço se cuidem, tudo de melhor sempre
 
-![Olá a todos](https://github.com/GGomes08/Eu/assets/79257514/12ce88c5-c20c-4b36-b22f-0c842d30ea33)
-
-
 
 _Do Míope Gustavo The Deka_
